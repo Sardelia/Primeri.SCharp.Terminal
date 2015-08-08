@@ -1,0 +1,5 @@
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\Modul02\bin\Debug\Modul02.exe
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\Modul02\bin\Debug\Modul02.pdb
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\Modul02\obj\x86\Debug\Modul02.csprojResolveAssemblyReference.cache
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\Modul02\obj\x86\Debug\Modul02.exe
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\Modul02\obj\x86\Debug\Modul02.pdb
