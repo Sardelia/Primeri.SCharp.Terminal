@@ -1,0 +1,5 @@
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\ReadFromComandLine\bin\Debug\ReadFromComandLine.exe
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\ReadFromComandLine\bin\Debug\ReadFromComandLine.pdb
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\ReadFromComandLine\obj\x86\Debug\ReadFromComandLine.csprojResolveAssemblyReference.cache
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\ReadFromComandLine\obj\x86\Debug\ReadFromComandLine.exe
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul02\ReadFromComandLine\obj\x86\Debug\ReadFromComandLine.pdb
