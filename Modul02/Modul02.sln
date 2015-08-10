@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul02", "Modul02\Modul02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromComandLine", "ReadFromComandLine\ReadFromComandLine.csproj", "{528E067B-9D31-45D5-A1A1-9ADA70BB4D02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProject", "TableProject\TableProject.csproj", "{FAAAB365-9F12-46EE-BA2E-919F191A53A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{528E067B-9D31-45D5-A1A1-9ADA70BB4D02}.Debug|x86.Build.0 = Debug|x86
 		{528E067B-9D31-45D5-A1A1-9ADA70BB4D02}.Release|x86.ActiveCfg = Release|x86
 		{528E067B-9D31-45D5-A1A1-9ADA70BB4D02}.Release|x86.Build.0 = Release|x86
+		{FAAAB365-9F12-46EE-BA2E-919F191A53A5}.Debug|x86.ActiveCfg = Debug|x86
+		{FAAAB365-9F12-46EE-BA2E-919F191A53A5}.Debug|x86.Build.0 = Debug|x86
+		{FAAAB365-9F12-46EE-BA2E-919F191A53A5}.Release|x86.ActiveCfg = Release|x86
+		{FAAAB365-9F12-46EE-BA2E-919F191A53A5}.Release|x86.Build.0 = Release|x86
 		{FEEB6A2D-6C4E-47C5-AFC9-A9A9C995D30D}.Debug|x86.ActiveCfg = Debug|x86
 		{FEEB6A2D-6C4E-47C5-AFC9-A9A9C995D30D}.Debug|x86.Build.0 = Debug|x86
 		{FEEB6A2D-6C4E-47C5-AFC9-A9A9C995D30D}.Release|x86.ActiveCfg = Release|x86
