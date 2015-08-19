@@ -32,4 +32,5 @@ namespace TableProject
 //			string[] parse = "1,2,3,4,5,6,7,8,9".Split(',');
 //			Console.WriteLine ("Броят на масива\n" + "1,2,3,4,5,6,7,8,9 e\n\n " + parse.Length);
 //			string list1 = string.Join(";",parse);
-//			Console.WriteLine ("Новият масив е:\n\n " + list1 + "\n");
+//			Console.WriteLine ("Новият масив е:\n\n " + list1 + "\n")
+Console.ReadKey();

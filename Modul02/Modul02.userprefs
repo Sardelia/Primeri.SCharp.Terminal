@@ -4,7 +4,7 @@
     <Files>
       <File FileName="Modul02\Program.cs" Line="1" Column="1" />
       <File FileName="ReadFromComandLine\Program.cs" Line="1" Column="1" />
-      <File FileName="TableProject\Program.cs" Line="16" Column="47" />
+      <File FileName="TableProject\Program.cs" Line="33" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
