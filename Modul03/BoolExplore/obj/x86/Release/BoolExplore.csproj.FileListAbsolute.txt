@@ -1,0 +1,5 @@
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul03\BoolExplore\bin\Release\BoolExplore.exe
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul03\BoolExplore\bin\Release\BoolExplore.pdb
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul03\BoolExplore\obj\x86\Release\BoolExplore.csprojResolveAssemblyReference.cache
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul03\BoolExplore\obj\x86\Release\BoolExplore.exe
+C:\Users\Acer pc\aula\Primeri.CSharp.Terminal\Modul03\BoolExplore\obj\x86\Release\BoolExplore.pdb
